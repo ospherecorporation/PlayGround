@@ -1,0 +1,14 @@
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\PlayGround.exe
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\PlayGround.pdb
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.dll
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.dll
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.xml
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.xml
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.Form1.resources
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.Properties.Resources.resources
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.csproj.GenerateResource.Cache
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.exe.licenses
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.exe
+D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
