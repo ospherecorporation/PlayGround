@@ -12,3 +12,6 @@ D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.cspro
 D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.exe.licenses
 D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.exe
 D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
+C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
+C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\obj\Debug\PlayGround.exe
+C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
