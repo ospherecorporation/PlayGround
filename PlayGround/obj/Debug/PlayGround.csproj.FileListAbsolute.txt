@@ -30,3 +30,6 @@ D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csproj.GenerateResource.C
 D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.exe.licenses
 D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Input.4.dll
 D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Input.4.xml
+D:\Documents\Visual Studio 2013\Projects\ClonedRepo\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
+D:\Documents\Visual Studio 2013\Projects\ClonedRepo\PlayGround\PlayGround\obj\Debug\PlayGround.exe
+D:\Documents\Visual Studio 2013\Projects\ClonedRepo\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
