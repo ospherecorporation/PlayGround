@@ -24,7 +24,6 @@ D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.dll
 D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.dll
 D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.xml
 D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.xml
-D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
 D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.Form1.resources
 D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.Properties.Resources.resources
 D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csproj.GenerateResource.Cache
