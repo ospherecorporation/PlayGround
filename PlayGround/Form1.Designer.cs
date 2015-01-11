@@ -33,9 +33,12 @@
             this.c1Button1 = new C1.Win.C1Input.C1Button();
             this.c1Label2 = new C1.Win.C1Input.C1Label();
             this.c1Label3 = new C1.Win.C1Input.C1Label();
+            this.radGridView1 = new Telerik.WinControls.UI.RadGridView();
             ((System.ComponentModel.ISupportInitialize)(this.c1Calendar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.c1Label2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.c1Label3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radGridView1.MasterTemplate)).BeginInit();
             this.SuspendLayout();
             // 
             // c1Calendar1
@@ -98,11 +101,20 @@
             this.c1Label3.TabIndex = 4;
             this.c1Label3.Tag = null;
             // 
+            // radGridView1
+            // 
+            this.radGridView1.Location = new System.Drawing.Point(236, 27);
+            this.radGridView1.Name = "radGridView1";
+            this.radGridView1.Size = new System.Drawing.Size(470, 404);
+            this.radGridView1.TabIndex = 5;
+            this.radGridView1.Text = "radGridView1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(885, 443);
+            this.Controls.Add(this.radGridView1);
             this.Controls.Add(this.c1Label3);
             this.Controls.Add(this.c1Label2);
             this.Controls.Add(this.c1Button1);
@@ -113,6 +125,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.c1Calendar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.c1Label2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.c1Label3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radGridView1.MasterTemplate)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -125,6 +139,7 @@
         private C1.Win.C1Input.C1Button c1Button1;
         private C1.Win.C1Input.C1Label c1Label2;
         private C1.Win.C1Input.C1Label c1Label3;
+        private Telerik.WinControls.UI.RadGridView radGridView1;
     }
 }
 
