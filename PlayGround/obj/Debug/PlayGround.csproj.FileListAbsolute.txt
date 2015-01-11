@@ -18,3 +18,16 @@ C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\obj\Debug\PlayGround.pd
 D:\Projects\playground\PlayGround\bin\Debug\PlayGround.exe.config
 D:\Projects\playground\PlayGround\obj\Debug\PlayGround.exe
 D:\Projects\playground\PlayGround\obj\Debug\PlayGround.pdb
+D:\Projects\PlayGround\PlayGround\bin\Debug\PlayGround.exe
+D:\Projects\PlayGround\PlayGround\bin\Debug\PlayGround.pdb
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.dll
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.dll
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1BarCode.4.xml
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Schedule.4.xml
+D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
+D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.Form1.resources
+D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.Properties.Resources.resources
+D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csproj.GenerateResource.Cache
+D:\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.exe.licenses
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Input.4.dll
+D:\Projects\PlayGround\PlayGround\bin\Debug\C1.Win.C1Input.4.xml
