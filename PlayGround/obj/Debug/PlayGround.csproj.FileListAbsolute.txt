@@ -15,3 +15,6 @@ D:\My Documents\Desktop\drops 3\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
 C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
 C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\obj\Debug\PlayGround.exe
 C:\Users\HP\Documents\Repositories\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
+D:\Projects\playground\PlayGround\bin\Debug\PlayGround.exe.config
+D:\Projects\playground\PlayGround\obj\Debug\PlayGround.exe
+D:\Projects\playground\PlayGround\obj\Debug\PlayGround.pdb
